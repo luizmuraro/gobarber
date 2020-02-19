@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/share/yarn/bin/yarn.js
+  /usr/local/bin/node /usr/share/yarn/bin/yarn.js add @sentry/node@5.12.2
 
 PATH: 
   /opt/node-v10.1.0-linux-x64/bin:/opt/node-v10.1.0-linux-x64/bin:/opt/node-v10.1.0-linux-x64/bin:/home/muraro/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/muraro/development/flutter/bin/:/usr/local/go/bin:/home/muraro/.go/bin:/home/muraro/development/flutter/bin/:/usr/local/go/bin:/home/muraro/.go/bin
